@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\julia\documents\visual studio 2015\projects\project1\project1\main.cpp(89): warning C4101: 'deltaSize': unreferenced local variable
+c:\users\julia\documents\visual studio 2015\projects\project1\project1\main.cpp(85): warning C4101: 'status': unreferenced local variable
+c:\users\julia\documents\visual studio 2015\projects\project1\project1\main.cpp(86): warning C4101: 'j': unreferenced local variable
+c:\users\julia\documents\visual studio 2015\projects\project1\project1\main.cpp(89): warning C4101: 'dataSize': unreferenced local variable
+  Project1.vcxproj -> c:\Users\Julia\documents\visual studio 2015\Projects\Project1\Debug\MPI_2_16.exe
+  Project1.vcxproj -> c:\Users\Julia\documents\visual studio 2015\Projects\Project1\Debug\MPI_2_16.pdb (Partial PDB)

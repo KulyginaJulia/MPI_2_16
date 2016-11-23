@@ -1,0 +1,7 @@
+﻿  main.cpp
+main.cpp(8): warning C4101: 'j': unreferenced local variable
+  Generating code
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1.vcxproj -> C:\Users\Julia\Documents\Visual Studio 2015\Projects\Project1\Release\MPI_2_16.exe
+  Project1.vcxproj -> C:\Users\Julia\Documents\Visual Studio 2015\Projects\Project1\Release\MPI_2_16.pdb (Full PDB)
